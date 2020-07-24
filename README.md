@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello, I'm Szymon
+
+<img src="https://github.com/golota60/golota60/blob/master/images/szymon.svg" style="float: right;" height="300" width="300" /> 
+
+📫 How to reach me: szymon.wiszczuk@gmail.com
+
+⚡ I really like React, Redux, Typescript and Node 
+# 
 
 <!--
 **golota60/golota60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
