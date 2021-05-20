@@ -1,12 +1,8 @@
 ### Hello, I'm Szymon
 
-<p align="center">
-<img src="https://github.com/golota60/golota60/blob/master/images/szymon.svg"  height="300" width="300" /> 
-</p>
-
 📫 How to reach me: szymon.wiszczuk@gmail.com
 
-⚡ I really like React, Redux, Typescript and Node 
+⚡ I really like React, Redux, Typescript and Node ⚡
 # 
 
 <!--
